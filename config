@@ -1,0 +1,40 @@
+# -----------------------------------------------------------------------------
+# Pastel Sorbet - Ghostty
+# "A soft, pastel colorscheme with rich purples and vibrant accents."
+# -----------------------------------------------------------------------------
+
+# Primary Colors
+background = #1c1826
+foreground = #e8e4f2
+
+# Cursor
+cursor-color = #ff8ed0
+cursor-text = #1c1826
+
+# Selection
+selection-background = #2e2840
+selection-foreground = #e8e4f2
+
+# -----------------------------------------------------------------------------
+# Base colors
+# -----------------------------------------------------------------------------
+palette = 0=#2e2840
+palette = 1=#ff8596
+palette = 2=#6ef298
+palette = 3=#ffd85c
+palette = 4=#7db8ff
+palette = 5=#c88df7
+palette = 6=#4cf0d8
+palette = 7=#cdc8da
+
+# -----------------------------------------------------------------------------
+# Accents
+# -----------------------------------------------------------------------------
+palette = 8=#726a88
+palette = 9=#ffa0b0
+palette = 10=#52edb8
+palette = 11=#ffe48a
+palette = 12=#a8d0ff
+palette = 13=#dba8ff
+palette = 14=#7af5e4
+palette = 15=#e8e4f2
